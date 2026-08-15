@@ -124,7 +124,7 @@ def dashboard(request):
         return redirect("/login")
 
     return render(request, "dashboard.html", {
-        "flag": ".tn/26t#?I]y|arT2O|ECk`RZ!`y~Ywi6)Yb8nHToR+xov`jiB"
+        "flag": "wiWc&{JB5!iwnC1jM)tEAkxp4R6+;,;T8O|ENknNs!o/)8P"
     })
 
 
